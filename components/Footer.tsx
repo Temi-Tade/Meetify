@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="w-full pb-5 font-poppins text-white px-16">
       <div className="flex mt-4 md:flex-row flex-col justify-between items-center">
         <div className="text-sm font-light flex flex-col items-center sm:flex-row sm:gap-1">
-          <p>© 2026 Raymond Oyondi | Meetify</p>
+          <p>© 2026 Meetify</p>
         </div>
 
         <div className="flex items-center md:gap-3 gap-6 mt-5 sm:mt-0">
