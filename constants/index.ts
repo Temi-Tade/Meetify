@@ -39,7 +39,7 @@ export const sidebarLinks = [
     {
       id: 1,
       img: "/icons/github.svg",
-      link: "https://github.com/raymondoyondi"
+      link: "https://github.com/getmeetify"
     },
     {
       id: 2,
