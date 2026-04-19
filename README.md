@@ -17,8 +17,8 @@
   - [Tech Stack](#tech-stack)
   - [Installation Guide](#installation-guide)
 - [Usage](#usage)
-  - [Contests Section](#contests-section)
-  - [User Profiles](#user-profiles)
+  - [Creating a Meeting](#creating-a-meeting)
+  - [Managing your Profile](#managing-your-profile)
 - [Contributing](#contributing)
 - [License](#-license)
 
