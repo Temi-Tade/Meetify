@@ -125,7 +125,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
   <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49e/512.webp" width="40" height="40"> Contributors</h1>
 </div>
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people 🙌:
 
 <!-- readme: contributors -start -->
 <table>
