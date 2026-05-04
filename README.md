@@ -142,7 +142,7 @@ Thanks goes to these wonderful people 🙌:
                 <a href="https://github.com/Temi-Tade">
                     <img src="https://avatars.githubusercontent.com/u/100342148?v=4" width="100;" alt="Temi-Tade"/>
                     <br />
-                    <sub><b>NXGn Dev</b></sub>
+                    <sub><b>Temiloluwa</b></sub>
                 </a>
             </td>
 		</tr>
